@@ -3,5 +3,6 @@
 ## Introduction
 
 ## Purpose
+To learn git
 
 ## How to Contribute
